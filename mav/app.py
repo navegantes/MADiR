@@ -1,9 +1,9 @@
 from fastapi import FastAPI
 
 app = FastAPI(
-    title='MADiR',
+    title='MAV',
     description='',
-    summary='Meu Acervo Digital de Romances',
+    summary='Meu Acervo Virtual',
     root_path='/api/v1',
 )
 
